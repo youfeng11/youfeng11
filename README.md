@@ -1,5 +1,7 @@
 ## Hi👋, I'm 由风
 
+![YouFeng11's GitHub stats](https://github-readme-stats.vercel.app/api?username=youfeng11)
+
 - 👻 I'm a student.
 
 - 🌱 I'm teaching myself Android development and Web development.
@@ -12,26 +14,15 @@
 
 ### 💻 Environment
 
-[![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com) 
-
-### 📱 Devices
-
-[![Redmi Note 11T Pro](https://img.shields.io/badge/Redmi%20Note%2011T%20Pro-FF6900?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://www.mi.com/redminote11t-pro)
-
-[![Redmi K30 Pro](https://img.shields.io/badge/Redmi%20K30%20Pro-FF6900?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://www.mi.com/redmik30pro)
-
-[![iQOO Neo 855](https://img.shields.io/badge/iQOO%20Neo%20855-415FFF?style=flat-square&logo=vivo&logoColor=FFFFFF&labelColor=415FFF)](https://www.vivo.com/cn/vivo/iqooneo855)
+[![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=34A853)](https://www.android.com) 
 
 ### 📞 Contact me
 
-- Bilibili：https://b23.tv/HMTezn9
-
-- Email：[youfeng11@outlook.com](mailto:youfeng11@outlook.com)
-
-- Gitee：https://gitee.com/YouFeng11
+[![Bilibili](https://img.shields.io/badge/%40由风11-FF6699?style=flat-square&logo=bilibili&logoColor=FFFFFF&labelColor=FF6699)](https://b23.tv/HMTezn9) [![Email](https://img.shields.io/badge/youfeng11%40outlook.com-53A9F2?style=flat-square&logo=mailbox.org&logoColor=FFFFFF&labelColor=53A9F2)](mailto:youfeng11@outlook.com) [![Gitee](https://img.shields.io/badge/%40YouFeng11-C71D23?style=flat-square&logo=gitee&logoColor=FFFFFF&labelColor=C71D23)](https://gitee.com/YouFeng11)
 
 ### 🐧 QQ Group
 
 Join my QQ Group:
 ```
 539945982
+```
