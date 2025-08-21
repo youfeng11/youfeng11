@@ -1,6 +1,10 @@
-### Hi👋, I'm 由风
+### Hi👋, I'm YouFeng
 
-![YouFeng11's GitHub stats](https://github-readme-stats.vercel.app/api?username=youfeng11)
+[![youfeng11's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=youfeng11&theme=date_night#gh-dark-mode-only)](https://github.com/youfeng11#gh-dark-mode-only)
+[![youfeng11's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=youfeng11&theme=rose#gh-light-mode-only)](https://github.com/youfeng11#gh-light-mode-only)
+
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=youfeng11&layout=compact&theme=date_night#gh-dark-mode-only)](https://github.com/youfeng11#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=youfeng11&layout=compact&theme=rose#gh-light-mode-only)](https://github.com/youfeng11#gh-light-mode-only)
 
 I am an **amateur Android developer** using Kotlin.
 
