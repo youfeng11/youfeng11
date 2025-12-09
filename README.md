@@ -1,12 +1,9 @@
 ### Hi👋, I'm YouFeng
 
-[![youfeng11's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=youfeng11&theme=date_night#gh-dark-mode-only)](https://github.com/youfeng11#gh-dark-mode-only)
-[![youfeng11's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=youfeng11&theme=rose#gh-light-mode-only)](https://github.com/youfeng11#gh-light-mode-only)
+[![youfeng11's GitHub stats](https://gstats.buddies-dev.de/api?username=youfeng11&show_icons=true&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![youfeng11's Top langs](https://gstats.buddies-dev.de/api/top-langs/?username=youfeng11&hide_border=true&layout=compact&langs_count=6&bg_color=00000000&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=youfeng11&layout=compact&theme=date_night#gh-dark-mode-only)](https://github.com/youfeng11#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=youfeng11&layout=compact&theme=rose#gh-light-mode-only)](https://github.com/youfeng11#gh-light-mode-only)
-
-I am an **amateur Android developer** using Kotlin.
+I am an **amateur Android developer** using [<img height="26" src="https://shields.io/badge/Kotlin-7F52FF.svg?style=flat-square&logo=kotlin&logoColor=FFFFFF"/>](https://wikipedia.org/wiki/Kotlin_(programming_language))
 
 #### Contact me
 
